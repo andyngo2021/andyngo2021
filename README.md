@@ -1,12 +1,4 @@
 <p align="center">
-<h2>Why hello there! 👋</h2>
-</p>
-
-My name is Andy and I am a high school senior with an interest in computer science!
-
-<br>
-
-<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyngo2021&layout=compact">
 
